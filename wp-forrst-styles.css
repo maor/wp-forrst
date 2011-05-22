@@ -1,0 +1,59 @@
+.forrst_w .container {margin:10px 0;}
+.forrst_w h3.username a {
+	color: #3B3227;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 30px;
+	letter-spacing: -1px;
+}
+.forrst_w h3.username span {
+	background: #204117;
+	bottom: 2px;
+	color: white;
+	font-size: 9.5px;
+	padding: 3px 5px;
+	position: relative;
+	letter-spacing: 0;
+}
+.forrst_w h3.username a:hover {text-decoration:none;}
+.forrst_w .photo img {
+	border: 1px solid #DDD;
+	padding: 4px;
+	background: #FCFFF6;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+.forrst_w .photo {
+	margin-right: 8px;
+	float:left;
+}
+.forrst_w .meta {float:left;margin:0;display:block;}
+.forrst_w .metadata {color: #6C6C6A;margin:0;}
+.forrst_w .follow-block {padding-top:10px;clear:both;}
+.forrst_w a.follow, a.unfollow {
+	background: url(http://forrst.com/assets/images/buttons/btn_follow.png) top left no-repeat;
+	text-indent: -1000em;
+	display: block;
+	width: 88px;
+	height: 27px;
+	margin: 0 auto;
+}
+.forrst_w div.bio {
+	margin-top: 8px;
+	background: #DDEBEA;
+	font-size: 12px;
+	line-height: 24px;
+	color: #595F5F;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	padding: 12px;
+	clear:both;
+}
+.forrst_w .box_em {display: inline-block;}
+.forrst_w div.bio a {
+	outline: none;
+	text-decoration: none;
+	color: #4C92E9;
+}
